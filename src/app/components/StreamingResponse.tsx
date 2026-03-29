@@ -9,16 +9,14 @@ interface StreamingResponseProps {
 
 const fullText = {
   intro:
-    " Basierend auf der Analyse der vorliegenden Daten für ETF A und ETF B möchte ich Ihnen eine Einschätzung zur Anlage Ihres Kapitals von 3.000€ geben. Hierfür stelle ich Ihnen eine strukturierte und ausgewogene Vorgehensweise vor.",
-  etfA: " bietet Ihnen gute Chancen auf überdurchschnittliche Erträge im globalen Kontext durch die attraktive Rendite von 5,2%. Durch die Einstufung in die mittlere Risikoklasse müssen Sie jedoch mit Schwankungen rechnen.",
-  etfB: " dient für Sie als stabilisierende Komponente durch die niedrige Risikoklasse sowie der geringen Kostenquote von 0,2%. Die Rendite von 3,1% hingegen fällt moderater aus, und kann Ihnen bei der Risikoreduzierung behilflich sein.",
+    " Geld anlegen ist echt keine leichte Entscheidung, oder? Super, dass du überhaupt darüber nachdenkst! Um deine 3000€ anzulegen, erkläre ich dir einfach und klar, wie ich es an deiner Stelle machen würde 👇",
+  etfA: " ist dein Motor für echtes Wachstum! Mit einer starken Rendite von 5,2% und internationalen Fokus bietet er dir die Chance, direkt am globalen Fortschritt teilzuhaben. Das mittlere Risiko ist dabei der faire Preis für diese Dynamik.",
+  etfB: " setzt auf Nachhaltigkeit 🌱in Europa bei sehr niedrigen Kosten von 0,2%. Auch wenn die Rendite mit 3,1% etwas ruhiger ausfällt, bringt dieser Fonds dir Stabilität und Sicherheit in deine Anlage..",
   recommendation:
-    " Ich empfehle Ihnen für Ihre Anlage von 3000€ eine gezielte Aufteilung im Verhältnis von 70% zu 30%. Für Ihr Portfolio bedeutet dies konkret, dass Sie 2100€ in den ETF A und 900€ in den ETF B investieren sollten.",
+    " Mein Empfehlung für dich: Geh mit 70% in ETF A und sichere die restlichen 30% im ETF B ab. Dies wären 2100€ in A und 900€ in B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
   conclusion:
-    " Diese Gewichtung ermöglicht Ihnen ein ausgewogenes Verhältnis zwischen Renditechancen und Risikomanagement. Sie nutzen das Renditepotenzial des globalen Marktes, während gleichzeitig durch den defensiveren Anteil von ETF B Risiken reduziert werden.",
-  
-  end: " Insgesamt wäre dies für Sie eine ausgewogene Kombination aus Wachstum und Stabilität bei gleichzeitig moderaten Kosten.",
-
+    " 70/30 ist ein ausgewogener Ansatz aus Wachstum und Stabilität. Du nutzt die Renditechancen der globalen Märkte, hast aber gleichzeitig einen stabilisierenden Anteil durch ETF B. Wenn du dich an diese einfache Strategie hältst, bist du schon sehr solide aufgestellt 😊",
+  end: " Viel Erfolg – und denk dran: Dranbleiben ist der Schlüssel 🔑",
   disclaimer:
     " Diese Inhalte wurden von einer Künstlichen Intelligenz erstellt. Sie dienen zu Informationszwecken, können Fehler enthalten und ersetzen keine professionelle Beratung. Bitte prüfen Sie wichtige Angaben eigenständig, bevor Sie auf deren Basis handeln.",
 };
