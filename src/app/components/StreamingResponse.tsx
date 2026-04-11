@@ -9,11 +9,11 @@ interface StreamingResponseProps {
 
 const fullText = {
   intro:
-    " Geld anlegen ist echt keine leichte Entscheidung, oder? Super, dass du überhaupt darüber nachdenkst! Um deine 3000€ anzulegen, erkläre ich dir einfach und klar, wie ich es an deiner Stelle machen würde 👇",
-  etfA: " ist dein Motor für echtes Wachstum! Mit einer starken Rendite von 5,2% und internationalen Fokus bietet er dir die Chance, direkt am globalen Fortschritt teilzuhaben. Das mittlere Risiko ist dabei der faire Preis für diese Dynamik.",
-  etfB: " setzt auf Nachhaltigkeit 🌱in Europa bei sehr niedrigen Kosten von 0,2%. Auch wenn die Rendite mit 3,1% etwas ruhiger ausfällt, bringt dieser Fonds dir Stabilität und Sicherheit in deine Anlage..",
+    " Geld anlegen ist echt keine leichte Entscheidung, oder? Super, dass du überhaupt darüber nachdenkst! Um deine 3000 € anzulegen, erkläre ich dir einfach und klar, wie ich es an deiner Stelle machen würde 👇",
+  etfA: " ist dein Motor für echtes Wachstum! Mit einer starken Rendite von 5,2 % und internationalen Fokus bietet er dir die Chance, direkt am globalen Fortschritt teilzuhaben. Das mittlere Risiko ist dabei der faire Preis für diese Dynamik.",
+  etfB: " setzt auf Nachhaltigkeit 🌱in Europa bei sehr niedrigen Kosten von 0,2 %. Auch wenn die Rendite mit 3,1 % etwas ruhiger ausfällt, bringt dieser Fonds dir Stabilität und Sicherheit in deine Anlage..",
   recommendation:
-    " Mein Empfehlung für dich: Geh mit 70% in ETF A und sichere die restlichen 30% im ETF B ab. Dies wären 2100€ in A und 900€ in B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
+    " Mein Empfehlung für dich: Geh mit 70 % in ETF A und sichere die restlichen 30 % im ETF B ab. Dies wären 2.100 € in A und 900 € in B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
   conclusion:
     " 70/30 ist ein ausgewogener Ansatz aus Wachstum und Stabilität. Du nutzt die Renditechancen der globalen Märkte, hast aber gleichzeitig einen stabilisierenden Anteil durch ETF B. Wenn du dich an diese einfache Strategie hältst, bist du schon sehr solide aufgestellt 😊",
   end: " Viel Erfolg – und denk dran: Dranbleiben ist der Schlüssel 🔑",
@@ -158,7 +158,7 @@ export function StreamingResponse({
                             setDisplayedDisclaimer("");
                             const disclaimerWords =
                               fullText.disclaimer.trim().split(" ");
-                            let disclaimerIndex = 0;
+                            let disclaimerIndex = -1;
 
                             const streamDisclaimer = () => {
                               if (
