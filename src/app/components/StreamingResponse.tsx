@@ -9,14 +9,14 @@ interface StreamingResponseProps {
 
 const fullText = {
   intro:
-    " Geld anlegen ist echt keine leichte Entscheidung, oder? Super, dass du überhaupt darüber nachdenkst! Um deine 3000 € anzulegen, erkläre ich dir einfach und klar, wie ich es an deiner Stelle machen würde 👇",
-  etfA: " ist dein Motor für echtes Wachstum! Mit einer starken Rendite von 5,2 % und internationalen Fokus bietet er dir die Chance, direkt am globalen Fortschritt teilzuhaben. Das mittlere Risiko ist dabei der faire Preis für diese Dynamik.",
-  etfB: " setzt auf Nachhaltigkeit 🌱in Europa bei sehr niedrigen Kosten von 0,2 %. Auch wenn die Rendite mit 3,1 % etwas ruhiger ausfällt, bringt dieser Fonds dir Stabilität und Sicherheit in deine Anlage..",
+    " Geld anzulegen ist wirklich keine leichte Entscheidung, oder? Um deine 3.000 € smart anzulegen, erkläre ich dir einfach und klar, wie ich es an deiner Stelle machen würde 😄",
+  etfA: " ist deine Grundlage für echtes Wachstum! Mit einer starken Rendite von 5,2 % und den geringen Kosten bietet er dir die Chance, direkt am globalen Wachstum teilzuhaben. Aber durch das mittlere Risiko kann es Schwankungen geben.",
+  etfB: " ermöglicht es dir in nachhaltige 🌱 europäische Unternehmen zu investieren, was dich kaum etwas kostet. Mit einer Rendite von 3,1 % und dem niedrigen Risiko ist er dein solider Anker für mehr Sicherheit.",
   recommendation:
     " Mein Empfehlung für dich: Geh mit 70 % in ETF A und sichere die restlichen 30 % im ETF B ab. Dies wären 2.100 € in A und 900 € in B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
   conclusion:
-    " 70/30 ist ein ausgewogener Ansatz aus Wachstum und Stabilität. Du nutzt die Renditechancen der globalen Märkte, hast aber gleichzeitig einen stabilisierenden Anteil durch ETF B. Wenn du dich an diese einfache Strategie hältst, bist du schon sehr solide aufgestellt 😊",
-  end: " Viel Erfolg – und denk dran: Dranbleiben ist der Schlüssel 🔑",
+    " Durch die 70/30-Teilung hast du einen ausgewogenen Ansatz aus Wachstum und Stabilität. Du nutzt die Renditechancen der globalen Märkte, hast aber gleichzeitig einen stabilisierenden Anteil durch ETF B. So ist dein Geld clever verteilt, das Risiko bleibt im Rahmen und du kannst dich entspannt zurücklehnen 😉",
+  end: " Viel Erfolg dabei 💪",
   disclaimer:
     " Diese Inhalte wurden von einer Künstlichen Intelligenz erstellt. Sie dienen zu Informationszwecken, können Fehler enthalten und ersetzen keine professionelle Beratung. Bitte prüfen Sie wichtige Angaben eigenständig, bevor Sie auf deren Basis handeln.",
 };
