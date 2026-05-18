@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import iconSvg from "../../imports/ICON03.svg";
+import iconSvg from "../../imports/ICON01.svg";
 import { ETFComparison } from "./ETFComparison";
 
 interface StreamingResponseProps {
@@ -13,12 +13,12 @@ const fullText = {
   etfA: " ist deine Grundlage für echtes Wachstum! Mit einer starken Rendite von 5,2 % und den geringen Kosten bietet er dir die Chance, direkt am globalen Wachstum teilzuhaben. Aber durch das mittlere Risiko kann es Schwankungen geben.",
   etfB: " ermöglicht es dir in nachhaltige 🌱 europäische Unternehmen zu investieren, was dich kaum etwas kostet. Mit einer Rendite von 3,1 % und dem niedrigen Risiko ist er dein solider Anker für mehr Sicherheit.",
   recommendation:
-    " Mein Empfehlung für dich: Geh mit 70 % in ETF A und sichere die restlichen 30 % im ETF B ab. Dies wären 2.100 € in A und 900 € in B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
+    " Meine Empfehlung für dich wäre: Geh mit 70 % in ETF A und sichere die restlichen 30 % im ETF B ab. Das entspricht eine Investition von 2.100 € in ETF A und 900 € in ETF B. So kombinierst du Diversifikation und thematische Gewichtung sinnvoll 👍",
   conclusion:
     " Durch die 70/30-Teilung hast du einen ausgewogenen Ansatz aus Wachstum und Stabilität. Du nutzt die Renditechancen der globalen Märkte, hast aber gleichzeitig einen stabilisierenden Anteil durch ETF B. So ist dein Geld clever verteilt, das Risiko bleibt im Rahmen und du kannst dich entspannt zurücklehnen 😉",
   end: " Viel Erfolg dabei 💪",
   disclaimer:
-    " Diese Inhalte wurden von einer Künstlichen Intelligenz erstellt. Sie dienen zu Informationszwecken, können Fehler enthalten und ersetzen keine professionelle Beratung. Bitte prüfen Sie wichtige Angaben eigenständig, bevor Sie auf deren Basis handeln.",
+    " Diese Nachricht ist KI-generiert und wurde auf Basis von statistischen Wahrscheinlichkeiten erzeugt, und kann daher Fehler enthalten. Sie dient ausschließlich zu Informationszwecken und ersetzt keine professionelle Beratung. Alle wichtigen Angaben sollten unabhängig überprüft werden, bevor auf deren Basis gehandelt wird.",
 };
 
 export function StreamingResponse({
